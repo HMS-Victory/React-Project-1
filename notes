@@ -1,0 +1,3 @@
+Components MUST be capitolized, the way react works
+lower case tags are interpreted as core HTML
+And capitolized tags are interpreted as custum components
